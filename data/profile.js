@@ -116,17 +116,17 @@ real-time updates, and a secure payment gateway with thorough form validations f
     {
       desc: `<strong>Web Development Internship Program </strong> by <strong>MNNIT, Prayagraj</strong>.
       `,
-      date: "July 2019",
+      date: "",
     },
     
     {
       desc: `<strong>JavaScript Complete Course</strong> by <strong>Udemy</strong>.`,
-      date: "April 2024",
+      date: "",
     },
     
     {
       desc: `<strong>MariaDB SQL </strong> by <strong>Udemy</strong>.`,
-      date: "April 2025",
+      date: "",
     },
     
   ],
