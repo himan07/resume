@@ -4,7 +4,7 @@ const profileData = {
   sub_title: "Full Stack Developer",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `Full Stack Developer with 3+ years of experience in building scalable web applications with a focus on performance, security, and user experience. Expertise in React.js, Node.js, and MongoDB. Skilled in leading projects, designing reusable components, and integrating advanced caching techniques. Strong problem-solver and collaborator, dedicated to continuous learning and innovation in modern web development.`,
+    intro: `Dynamic <strong>Full Stack Developer</strong> with <strong>3+</strong> years of experience in <strong>MERN stack</strong>. Skilled in building scalable, high-performance web apps with a focus on <strong>React.js, Node.js, and MongoDB</strong>. Expert in <strong>project leadership</strong>, designing reusable components, and optimizing performance. <strong>Strong problem-solver</strong>, committed to <strong>continuous learning and innovation</strong> in web development.`,
     contact: {
       email: "himan9714@gmail.com",
       phone: "+91-8127044098",
@@ -52,14 +52,10 @@ const profileData = {
       title: "Full Stack Developer",
       date: "Sept 2024 - Present",
       details: [
-        `<strong>Led the end-to-end development</strong> of a <strong>healthcare application</strong> architecting a <strong>high-performance, secure, and scalable system</strong> using <strong>React.js, Node.js, and MongoDB.</strong>`,
-        `Implemented <strong>advanced caching</strong> and <strong>lazy loading techniques</strong>, reducing load times by <strong>33.14%</strong> and significantly
-         improving system responsiveness.`,
-        `Integrated in-house <strong>help center SDK</strong>, offering self-help features like guided app core flows and callback scheduling for users, leading to a <strong>reduction in customer call volume</strong>.`,
-        `<strong>Designed and built an intuitive admin panel</strong>, enabling real-time customization of survey templates, user access
-         controls, and data analytics visualization.`,
-        `<strong>Optimized database queries</strong> and <strong>indexing strategies,</strong> resulting in improved data retrieval
-         speeds and enhanced performance under heavy loads.`,
+        `<strong>Developed & launched XMC (XcelMedConnect) and XGP (Xcel Global Panel) App</strong> using <strong>MERN stack</strong>, implementing <strong>secure 3-step registration</strong> with mobile & email validation, and <strong>JWT authentication with token expiry.</strong>`,
+        `Designed and integrated a reward system allowing users to redeem rewards as cash or coupons, along with <strong>secure payment gateways</strong> for <strong>India & US.</strong>`,
+        `Developed an in-house Help Center SDK with self-help and callback scheduling, reducing customer calls, and <strong>migrated legacy React class components</strong> to functional components for improved performance.`,
+        `Improved <strong>API security & performance</strong> through <strong>encryption and optimization</strong>.`
       ],
     },
     {
@@ -75,10 +71,11 @@ const profileData = {
          `Designed and implemented a <strong>role-based access control system</strong> managing permissions for over 1k internal and
           external users.`,
           `<strong>Reduced manual document distribution time</strong> by developing annexure viewing in PDF viewers and multi-role document sharing workflows.`,
-          `Optimized Redux state management by implementing efficient data structures and minimizing unnecessary re-renders, resulting in reduced memory usage and improved data rendering speed`
+          // `Optimized Redux state management by using efficient data structures and minimizing re-renders, reducing memory usage and improving data rendering speed.`
       ],
     },
   ],
+
   projects: [
     {
       title: "ModernMart - An Ecommerce app",
